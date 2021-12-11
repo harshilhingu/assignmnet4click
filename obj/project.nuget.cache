@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nhHrGMa2ZJ+LEne6toHMENSRvqd2H+afJeL5lP6lSAo9B1vmIexPnF6shfeBXh/tuhcHMv7avyh5+VPZVHZdug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HARSHIL\\blazor\\BlazorApp\\BlazorApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HARSHIL\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
